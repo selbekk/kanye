@@ -1,0 +1,19 @@
+{
+  "name": "kanye",
+  "version": "1.0.0",
+  "description": "A website for kan.ye",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selbekk/kanye.git"
+  },
+  "author": "selbekk <selbeezy@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selbekk/kanye/issues"
+  },
+  "homepage": "https://github.com/selbekk/kanye#readme"
+}
