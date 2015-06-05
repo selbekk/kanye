@@ -2,9 +2,9 @@
   "name": "kanye",
   "version": "1.0.0",
   "description": "A website for kan.ye",
-  "main": "src/app.js",
+  "main": "src/backend/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "cd src/backend && node app.js"
   },
   "repository": {
     "type": "git",
