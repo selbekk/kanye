@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/selbekk/kanye#readme",
   "dependencies": {
+    "express": "^4.12.4",
+    "express-handlebars": "^2.0.1",
     "logbekk": "^1.0.3"
   }
 }
