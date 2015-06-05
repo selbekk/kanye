@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/selbekk/kanye/issues"
   },
-  "homepage": "https://github.com/selbekk/kanye#readme"
+  "homepage": "https://github.com/selbekk/kanye#readme",
+  "dependencies": {
+    "logbekk": "^1.0.3"
+  }
 }
