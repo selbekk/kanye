@@ -5,7 +5,7 @@ var express = require('express'),
 var app = express(),
     log = new Logger();
 
-app.engine('handlebars', exphbs({ defaultLayout: 'main' });
+app.engine('handlebars', exphbs({ defaultLayout: 'main' }));
 app.set('view engine', 'handlebars');
 app.set('port', process.env.PORT || 4000);
 
