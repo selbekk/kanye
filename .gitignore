@@ -1,5 +1,11 @@
+# Downloadable content
 node_modules/
 
+# Build
+src/frontend/dist
+
+# OS specific
 .DS_Store
 
+# Logs
 *.log
